@@ -9,7 +9,7 @@
 python imagedetect.py -i [file/folder]
 
 # 详细输出
-python imagedetect.py -i [file/folder]
+python imagedetect.py -verbose -i [file/folder]
 ```
 
 简单的用例在 `example.py` 中
